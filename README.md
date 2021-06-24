@@ -43,4 +43,3 @@ python spaceinvaders.py
 ## Other Projects
 
 - [Tether!](https://github.com/YEETEDWIN/Tether)
-- [Duel Snakes (Not made by me, but I made it available on Github)](https://github.com/YEETEDWIN/Duel-Snakes)
