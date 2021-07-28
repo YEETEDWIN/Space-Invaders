@@ -39,7 +39,3 @@ python spaceinvaders.py
 ## Demo
 
 [![Space Invaders](http://img.youtube.com/vi/_2yUP3WMDRc/0.jpg)]
-
-## Other Projects
-
-- [Tether!](https://github.com/YEETEDWIN/Tether)
