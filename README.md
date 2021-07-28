@@ -38,4 +38,4 @@ python spaceinvaders.py
 
 ## Demo
 
-[![Space Invaders](http://img.youtube.com/vi/_2yUP3WMDRc/0.jpg)]
+![Space Invaders](http://img.youtube.com/vi/_2yUP3WMDRc/0.jpg)
